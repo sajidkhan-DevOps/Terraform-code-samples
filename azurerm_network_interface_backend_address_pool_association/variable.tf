@@ -1,1 +1,0 @@
-variable "var-vm1-nic" {}
