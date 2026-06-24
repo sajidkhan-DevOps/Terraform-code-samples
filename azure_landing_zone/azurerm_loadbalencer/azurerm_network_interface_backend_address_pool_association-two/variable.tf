@@ -1,0 +1,1 @@
+variable "var-vm2-nic-2" {}
